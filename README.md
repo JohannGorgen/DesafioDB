@@ -1,4 +1,4 @@
-# DesafioDB Web
+# ProjetoWebSelenium
 
 Criado o código utilizando o Selenium Webdriver, com estrutura em PageObject, com execução do TestNG, linguagem Java e Allure para relatórios. 
 
